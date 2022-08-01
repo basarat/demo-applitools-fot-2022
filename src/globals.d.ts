@@ -1,0 +1,1 @@
+declare const user: { email: string, id: number };
